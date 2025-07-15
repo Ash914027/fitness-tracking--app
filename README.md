@@ -1,3 +1,4 @@
+
 # 🏋️‍♂️ Fitness Tracking Application
 
  
@@ -7,9 +8,15 @@
 
 ## 📸 Screenshots
 
-| 🏠 Home Page | 💪 Workout Log | 🚶 Step Tracker |
+| 🏠 Home Page | 💪 Workout Log ||
 |-------------|----------------|----------------|
-| ![Home](<img width="400" height="851" alt="Screenshot 2025-07-15 145814" src="https://github.com/user-attachments/assets/b2afe3b3-821d-4f53-ab87-b86b7169c3c5" />) | ![Workout](<img width="392" height="844" alt="Screenshot 2025-07-15 145825" src="https://github.com/user-attachments/assets/f3773bb7-b316-4e0c-89a9-766ae949ec8f" />) | ![Steps](<img width="390" height="831" alt="Screenshot 2025-07-15 145749" src="https://github.com/user-attachments/assets/bf163d42-bf1a-40be-98c5-13063c6d5995" />) | ![Water InTake](<img width="393" height="844" alt="Screenshot 2025-07-15 145836" src="https://github.com/user-attachments/assets/9a4449a6-9bcb-417d-ad16-e993e09cc343" />) | ![Stats]() |
+
+<img width="400" height="851" alt="Screenshot 2025-07-15 145814" src="https://github.com/user-attachments/assets/6115c0ec-fb94-43e2-bdac-200c73ad55d6" />) |<img width="392" height="844" alt="Screenshot 2025-07-15 145825" src="https://github.com/user-attachments/assets/4adc37ff-eb86-4ceb-91f0-86a84b44c0c6" /> |
+
+| 🚶 Step Tracker | Water intake |  stats |
+|-------------|----------------|----------------|
+|  <img width="390" height="831" alt="Screenshot 2025-07-15 145749" src="https://github.com/user-attachments/assets/df9ede44-8546-4823-8f09-1b3a1cbb1fd2" />)) |<img width="393" height="844" alt="Screenshot 2025-07-15 145836" src="https://github.com/user-attachments/assets/03754435-c5f4-4e7a-b5a1-babf479503f1" /> |<img width="410" height="845" alt="Screenshot 2025-07-15 145736" src="https://github.com/user-attachments/assets/0cd1d166-5634-46cb-a15a-f8a59a567c0a" />
+
 
 ---
 
