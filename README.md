@@ -22,7 +22,7 @@
 
 ## ✨ Purpose of the App
 
-> This app is built for fitness enthusiasts who want to stay on top of their health goals.  
+> This app is built for fitness enthusiasts who want to stay on top of their health goals
 > It allows users to track their daily workouts, monitor step counts, and log water intake easily.  
 > Inspired by the need for an all-in-one personal fitness assistant, this app helps users build consistent and healthy habits. 💪💧🚶‍♂️
 
