@@ -2,7 +2,7 @@
 # 🏋️‍♂️ Fitness Tracking Application
 
  
-*A simple yet powerful app to monitor your workouts, count steps, and water intake.*
+*A simple yet powerful app to monitor your workouts, count steps, and water intake*
 
 ---
 
